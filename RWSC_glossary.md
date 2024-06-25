@@ -1,4 +1,7 @@
-# RWSC Data Management & Governance Glossary
+---
+title: "RWSC Data Management & Governance Glossary"
+format: gfm
+---
   
 This glossary is meant to serve as a useful reference.  It is an evergreen document and will be updated and added to as often as necessary. 
 
