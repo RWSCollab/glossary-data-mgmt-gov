@@ -10,6 +10,7 @@ This glossary is meant to serve as a useful reference.  It is an evergreen docum
 #### Table of Contents
 [Calibrated Data](#calibrated-data)  
 [CARE Principles](#care-principles)  
+[Controlled Vocabularies](#controlled-vocabularies)  
 [Data Catalog](#data-catalog)  
 [Data Documentation](#data-documentation)  
 [Data Governance](#data-governance)  
@@ -46,6 +47,10 @@ Time series data that has been processed using software to apply instrument cali
 #### CARE Principles
 
 The CARE Principles for Indigenous Data Governance were developed by the International Indigenous Data Sovereignty Interest Group, part of the Research Data Alliance.They were designed to complement the FAIR data principles and describe key aspects of working with Indigenous communities and cultures and their data, information, and knowledge. The CARE principles are:  Collective benefit, Authority to control, Responsibility, and Ethics.  Published in [Data Science Journal in 2020](http://doi.org/10.5334/dsj-2020-043).
+
+#### Controlled Vocabularies
+
+Collections of terms used to improve the consistency and effectiveness of data entry, storage, retrieval, and interoperability.  Their use removes ambiguity, makes implicit information explicit, and the increases interpretability of the data.  See [NISO Z39.19](www.doi.org/10.3789/ansi.niso.z39.19-2005R2010), and applications such as [MEDIN](https://medin.org.uk/data-standards/controlled-vocabularies).
 
 #### Data Catalog
 
