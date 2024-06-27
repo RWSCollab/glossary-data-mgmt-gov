@@ -1,13 +1,12 @@
 ---
-title: "RWSC Data Management & Governance Glossary"
-format: gfm
----
+title: RWSC Data Management & Governance Glossary
+--- 
   
 This glossary is meant to serve as a useful reference.  It is an evergreen document and will be updated and added to as often as necessary. 
 
 <br>
 
-#### Table of Contents
+### Table of Contents
 [Calibrated Data](#calibrated-data)  
 [CARE Principles](#care-principles)  
 [Controlled Vocabularies](#controlled-vocabularies)  
@@ -167,7 +166,9 @@ A data collaborative structure where a third-party actor supports collaboration 
   
   
 <br>
+ 
   
-#### Other Similar Glossaries
-[FAIR Island] (https://fairisland.org/toolkit/glossary/).  
+### Other Similar Glossaries
+
+[FAIR Island](https://fairisland.org/toolkit/glossary/)
 
