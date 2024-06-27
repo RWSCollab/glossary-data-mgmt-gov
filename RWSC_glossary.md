@@ -38,6 +38,8 @@ This glossary is meant to serve as a useful reference.  It is an evergreen docum
 [THREDDS](#thredds)  
 [Trusted Intermediary](#trusted-intermediary)  
   
+[Other Similar Glossaries](#other-similar-glossaries)  
+  
 <br>  
   
 #### Calibrated Data
@@ -166,3 +168,6 @@ A data collaborative structure where a third-party actor supports collaboration 
   
 <br>
   
+#### Other Similar Glossaries
+[FAIR Island] (https://fairisland.org/toolkit/glossary/).  
+
