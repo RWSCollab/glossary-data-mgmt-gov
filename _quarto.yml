@@ -1,0 +1,47 @@
+project:
+  type: website
+  
+website:
+  title: "Data Management & Governance Glossary"
+  page-navigation: true
+  favicon: /_site/logo7.png
+  search: false
+  navbar: 
+     background: light
+     search: false
+     logo: "/_site/RWSC_Logo_notext.png"
+     bread-crumbs: false
+  sidebar:
+    title: RWSC Glossary
+    logo: "/_site/logo7.png"
+    pinned: true
+    align: "center"
+  page-footer:
+    left: "&copy; CC-By-NC-ND RWSC Steering Committee, 2024"
+    right: <img src="/_site/RWSC_Logo.png" width="125">
+
+format:
+  html:
+    theme:
+      - cosmo
+      - rwsc.scss
+    fontsize: 1.1em
+    linestretch: 1.5
+    embed-resources: true 
+    smooth-scroll: true
+    toc: true
+    toc-location: left 
+    toc-title: " "
+    toc-depth: 4
+    page-layout: full
+    code-link: true
+    author-meta: "Regional Wildlife Science Collaborative for Offshore Wind"
+    callout-appearance: simple
+    link-external-newwindow: true
+
+plugins:
+  - jekyll-relative-links
+  
+relative_links:
+  enabled: true
+  collections: true
